@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZqcmV2eDgyM3l0cmo5ZXEzeHE3djA4cnlnbXhqbmY2MThrYnVwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="150"/>
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Raúl</h1>
+<h1 align="center">Raúl Salas Sahuquillo</h1>
 
 <p align="center">
   I'm 15 years old and a student passionate about the world of programming.
