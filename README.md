@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" style="border-radius: 20px;"/>
   
-  <h1 align="center">Hola, soy Raúl Salas Sahuquillo 👋</h1>
+  <h1 align="center">Raúl Salas Sahuquillo</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=23F7DD&center=true&vCenter=true&width=500&lines=16+y%2Fo+Developer+🚀;Building+AI+%26+Android+Apps+🤖;Python+%7C+Java+%7C+C%2B%2B+💻;Welcome+to+my+profile!" alt="Typing SVG" />
@@ -19,7 +19,6 @@
   🔭 **Actualmente:** Estudiante apasionado por la programación.  
   🌱 **Aprendiendo:** Python, Java, C++ y el mundo de la IA.  
   🎯 **Meta:** Crear una nueva tecnología impulsada por Inteligencia Artificial.  
-  ⚡ **Dato:** ¡Empecé a programar a los 15 años!
   
 </div>
 
