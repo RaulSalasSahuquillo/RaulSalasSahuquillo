@@ -1,31 +1,26 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" style="border-radius: 20px;"/>
-  
-  <h1 align="center">Raúl Salas Sahuquillo</h1>
-  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" style="border-radius: 20px;"/>
+</p>
+
+<h1 align="center">Raúl Salas Sahuquillo</h1>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=23F7DD&center=true&vCenter=true&width=500&lines=16+y%2Fo+Developer+🚀;Building+AI+%26+Android+Apps+🤖;Python+%7C+Java+%7C+C%2B%2B+💻;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=23F7DD&center=true&vCenter=true&width=500&lines=16-year-old+Developer+🚀;Building+AI+%26+Android+Apps+🤖;Python+%7C+Java+%7C+C%2B%2B+💻;Welcome+to+my+world!" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
-  
-  > *"Focused on learning and building projects while exploring different technologies."*
-  
-  <br>
-  
-  🔭 **Actualmente:** Estudiante apasionado por la programación.  
-  🌱 **Aprendiendo:** Python, Java, C++ y el mundo de la IA.  
-  🎯 **Meta:** Crear una nueva tecnología impulsada por Inteligencia Artificial.  
-  
+  <p align="center">
+    <i>"Executing linux shell commands..."</i>
+  </p>
 </div>
 
 ---
 
-<h3 align="center">🛠️ Arsenales & Tecnologías</h3>
-
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -37,17 +32,16 @@
 
 ---
 
-<h3 align="center">🔥 Proyectos Destacados</h3>
+<h3 align="center">🔥 Featured Projects</h3>
 
-| Proyecto | Tecnologías | Descripción |
+| Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| **🎮 [Alice in Borderland: Decretum](https://github.com/RaulSalasSahuquillo/Alice-in-Borderland-Decretum)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | Un juego **RPG/Mundo Abierto** para Android en desarrollo. Inspirado en la serie de Netflix *Alice in Borderland*. |
-| **🧠 [Neuronal Network](https://github.com/RaulSalasSahuquillo/Red-Neuronal)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square) | Una red neuronal básica codificada en español. Calcula relaciones lineales con la fórmula: $$y = 5x + 7$$ |
+| **🎮 [Alice in Borderland: Decretum](https://github.com/RaulSalasSahuquillo/Alice-in-Borderland-Decretum)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | An ambitious **Open-World RPG** for Android currently in development. Inspired by the *Alice in Borderland* series. |
+| **🧠 [Neuronal Network](https://github.com/RaulSalasSahuquillo/Red-Neuronal)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square) | A fundamental neural network built from scratch. It models linear relationships using the formula: $$y = 5x + 7$$ |
 
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaulSalasSahuquillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaulSalasSahuquillo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
@@ -55,8 +49,7 @@
 
 ---
 
-<h3 align="center">🌐 Conecta conmigo</h3>
-
+<h3 align="center">🌐 Let's Connect</h3>
 <div align="center">
   <a href="https://discord.gg/8Psy5uxbW4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-ENEI_Project-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
