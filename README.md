@@ -134,10 +134,16 @@ Software developer and systems researcher based in Spain, specializing in low-le
       <td valign="top">
         <h3><a href="https://github.com/RaulSalasSahuquillo/algorithms-and-architectures-arm-to-quantum">Algorithms &amp; Architectures: Systems to Quantum</a></h3>
         <p>
-          <img src="./assets/tags/c.svg" alt="C" height="22" />
-          <img src="./assets/tags/shell.svg" alt="Shell" height="22" />
-          <img src="./assets/tags/linux.svg" alt="Linux" height="22" />
-          <img src="./assets/tags/reverse-eng.svg" alt="Reverse Engineering" height="22" />
+          <img src="./assets/tags/python.svg" alt="Python" height="22" />
+          <img src="./assets/tags/raspberrypi.svg" alt="Raspberry Pi" height="22" />
+          <img src="./assets/tags/flutter.svg" alt="Flutter" height="22" />
+          <img src="./assets/tags/flask.svg" alt="Flask" height="22" />
+          <img src="./assets/tags/openqasm.svg" alt="OpenQASM" height="22" />
+          <img src="./assets/tags/qsharp.svg" alt="Q#" height="22" />
+          <img src="./assets/tags/qiskit.svg" alt="Qiskit" height="22" />
+          <img src="./assets/tags/cirq.svg" alt="Cirq" height="22" />
+          <img src="./assets/tags/risc.svg" alt="RISC" height="22" />
+          <img src="./assets/tags/grovers-algorithm.svg" alt="Grover's Algorithm" height="22" />
         </p>
         <p>
           Research codebase (TdR) evaluating computational models from the hardware up. Spans bare-metal execution, instruction-level performance analysis, physical automation interfaces, and algorithmic scaling simulations toward quantum supremacy benchmarks.
@@ -179,7 +185,7 @@ Software developer and systems researcher based in Spain, specializing in low-le
           <img src="./assets/tags/webassembly.svg" alt="WebAssembly" height="22" />
         </p>
         <p>
-          Modular 2D game engine and interactive environment built for collaborative extensions. Features a multi-target deployment pipeline compiling from desktop Python/Pygame into native Android APK packages and browser-based WebAssembly runtimes via Pygbag.
+          Modular 2D game engine and interactive environment built for collaborative extensions. Features a multi-target deployment pipeline compiling from desktop Python/Pygame into native Android APK packages with Java and browser-based WebAssembly runtimes via Pygbag.
         </p>
         <p>
           <a href="https://github.com/RaulSalasSahuquillo/PIXELTOWN">
@@ -220,6 +226,8 @@ Software developer and systems researcher based in Spain, specializing in low-le
   <img src="./assets/tags/qiskit.svg" alt="Qiskit" height="22" />
   <img src="./assets/tags/cirq.svg" alt="Cirq" height="22" />
   <img src="./assets/tags/qsharp.svg" alt="Q#" height="22" />
+  <img src="./assets/tags/openqasm.svg" alt="OpenQASM" height="22" />
+  <img src="./assets/tags/grovers-algorithm.svg" alt="Grover's Algorithm" height="22" />
   <img src="./assets/tags/ibm-quantum.svg" alt="IBM Quantum Platform" height="22" />
 </p>
 
