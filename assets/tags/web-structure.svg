@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="314" height="22" viewBox="0 0 314 22" fill="none">
+  <rect x="0.5" y="0.5" width="313" height="21" rx="4" fill="#0d1117" stroke="#2b3446" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="313" height="21" rx="4" fill="#c9d1d9" fill-opacity="0.06"/>
+  <g transform="translate(7, 5)">
+    <path d="M2.5 2h7M2.5 6h7M2.5 10h7" stroke="#e6edf3" stroke-width="1.1" stroke-linecap="round"/>
+    <circle cx="1" cy="2" r="0.8" fill="#e34f26"/>
+    <circle cx="1" cy="6" r="0.8" fill="#1572b6"/>
+    <circle cx="1" cy="10" r="0.8" fill="#f7df1e"/>
+  </g>
+  <text x="25" y="14.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" fill="#e6edf3" letter-spacing="0.2">HTML5 · CSS3 · JavaScript (Web Structure)</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="22" viewBox="0 0 70 22" fill="none">
+  <rect x="0.5" y="0.5" width="69" height="21" rx="4" fill="#0d1117" stroke="#2b3446" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="69" height="21" rx="4" fill="#3776ab" fill-opacity="0.06"/>
+  <g transform="translate(6, 5)">
+    <path d="M6 1.5c-2.2 0-2.5 1-2.5 2v1.5h3.5v.5H3c-1.5 0-2 .8-2 2.2 0 1.5.8 2.3 2 2.3h1v-1.2c0-1.2.9-1.8 2-1.8h3v-.5c0-1.2-.8-2-2.5-2H6V1.5z" fill="#3776ab"/><circle cx="4.5" cy="2.8" r="0.6" fill="#fff"/>
+  </g>
+  <text x="22" y="14.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" fill="#e6edf3" letter-spacing="0.2">Python</text>
+</svg>

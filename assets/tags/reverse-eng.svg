@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="22" viewBox="0 0 161 22" fill="none">
+  <rect x="0.5" y="0.5" width="160" height="21" rx="4" fill="#0d1117" stroke="#2b3446" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="160" height="21" rx="4" fill="#8b949e" fill-opacity="0.06"/>
+  <g transform="translate(6, 5)">
+    <path d="M3 3l2 2-2 2M7 7h3M9 3l-1.5 1.5" stroke="#8b949e" stroke-width="1.2" stroke-linecap="round"/><circle cx="6" cy="6" r="4.5" fill="none" stroke="#8b949e" stroke-width="1"/>
+  </g>
+  <text x="22" y="14.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" fill="#e6edf3" letter-spacing="0.2">Reverse Engineering</text>
+</svg>

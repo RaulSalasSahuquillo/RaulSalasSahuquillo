@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="22" viewBox="0 0 84 22" fill="none">
+  <rect x="0.5" y="0.5" width="83" height="21" rx="4" fill="#0d1117" stroke="#2b3446" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="83" height="21" rx="4" fill="#478cbf" fill-opacity="0.08"/>
+  <g transform="translate(6, 5)">
+    <rect x="2" y="2.5" width="8" height="7" rx="1.5" fill="none" stroke="#478cbf" stroke-width="1.2"/><circle cx="4.5" cy="5.5" r="0.9" fill="#478cbf"/><circle cx="7.5" cy="5.5" r="0.9" fill="#478cbf"/><path d="M5 8h2" stroke="#478cbf" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  <text x="22" y="14.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" fill="#e6edf3" letter-spacing="0.2">GDScript</text>
+</svg>

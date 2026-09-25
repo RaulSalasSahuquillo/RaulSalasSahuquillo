@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="22" viewBox="0 0 98 22" fill="none">
+  <rect x="0.5" y="0.5" width="97" height="21" rx="4" fill="#0d1117" stroke="#2b3446" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="97" height="21" rx="4" fill="#f7df1e" fill-opacity="0.06"/>
+  <g transform="translate(6, 5)">
+    <rect x="2" y="2" width="8" height="8" rx="1" fill="#f7df1e"/><text x="4.5" y="8" font-family="monospace" font-size="5" font-weight="bold" fill="#000">JS</text>
+  </g>
+  <text x="22" y="14.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" fill="#e6edf3" letter-spacing="0.2">JavaScript</text>
+</svg>

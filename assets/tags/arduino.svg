@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="22" viewBox="0 0 77 22" fill="none">
+  <rect x="0.5" y="0.5" width="76" height="21" rx="4" fill="#0d1117" stroke="#2b3446" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="76" height="21" rx="4" fill="#00979d" fill-opacity="0.06"/>
+  <g transform="translate(6, 5)">
+    <circle cx="4" cy="6" r="3" fill="none" stroke="#00979d" stroke-width="1.2"/><circle cx="8" cy="6" r="3" fill="none" stroke="#00979d" stroke-width="1.2"/><path d="M3 6h2M7 6h2M8 5v2" stroke="#00979d" stroke-width="1"/>
+  </g>
+  <text x="22" y="14.5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" fill="#e6edf3" letter-spacing="0.2">Arduino</text>
+</svg>

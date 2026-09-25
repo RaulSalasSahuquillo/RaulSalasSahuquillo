@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 205" width="100%" height="205" fill="none">
+  <defs>
+    <!-- Matte Obsidian Card Background -->
+    <linearGradient id="premBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1219"/>
+      <stop offset="50%" stop-color="#0a0d13"/>
+      <stop offset="100%" stop-color="#0c0f16"/>
+    </linearGradient>
+
+    <!-- Platinum Sheen for Border Sweep -->
+    <linearGradient id="sheenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      .brand-mono {
+        font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace;
+        font-size: 10px;
+        fill: #7d8590;
+        letter-spacing: 1.5px;
+      }
+      .brand-name {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        fill: #ffffff;
+        letter-spacing: -0.6px;
+      }
+      .brand-sub {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        fill: #c9d1d9;
+        letter-spacing: -0.2px;
+      }
+      .brand-desc {
+        font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace;
+        font-size: 11.5px;
+        fill: #8b949e;
+        line-height: 1.55;
+      }
+      .cad-text {
+        font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace;
+        font-size: 8.5px;
+        fill: #484f58;
+        letter-spacing: 0.5px;
+      }
+
+      /* Slow, dignified specular sweep across top edge */
+      @keyframes borderSweep {
+        0% { transform: translateX(-300px); }
+        100% { transform: translateX(850px); }
+      }
+      .sheen-bar {
+        animation: borderSweep 8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      }
+
+      /* Slow architectural rotation of precision reticle */
+      @keyframes slowRotate {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .reticle-ring {
+        transform-origin: 720px 105px;
+        animation: slowRotate 45s linear infinite;
+      }
+      @keyframes counterRotate {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(-360deg); }
+      }
+      .reticle-inner {
+        transform-origin: 720px 105px;
+        animation: counterRotate 60s linear infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box: Matte Obsidian with fine border -->
+  <rect x="1" y="1" width="848" height="203" rx="8" fill="url(#premBg)" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Top Border Specular Sheen (Subtle, physical feel) -->
+  <g clip-path="url(#topClip)">
+    <clipPath id="topClip">
+      <rect x="2" y="1" width="846" height="4" rx="2"/>
+    </clipPath>
+    <rect class="sheen-bar" x="0" y="1" width="220" height="1.5" fill="url(#sheenGrad)"/>
+  </g>
+
+  <!-- Top Metadata Bar -->
+  <g transform="translate(40, 32)">
+    <text class="brand-mono" x="0" y="0">RAÚL SALAS SAHUQUILLO</text>
+    <text class="brand-mono" x="220" y="0" fill="#484f58">//</text>
+    <text class="brand-mono" x="240" y="0">SYSTEMS &amp; COMPUTING</text>
+    <text class="brand-mono" x="770" y="0" text-anchor="end">SPAIN · 40°N</text>
+    <line x1="0" y1="12" x2="770" y2="12" stroke="#1f242c" stroke-width="0.8"/>
+  </g>
+
+  <!-- Left Editorial Typography -->
+  <g transform="translate(40, 78)">
+    <text class="brand-name" x="0" y="0">Raúl Salas Sahuquillo</text>
+    <text class="brand-sub" x="0" y="27">Systems Architecture · Applied Deep Learning · Embedded Firmware · Web Standards</text>
+    <text class="brand-desc" x="0" y="54">Developing deterministic software across low-level architectures, applied neural models,</text>
+    <text class="brand-desc" x="0" y="72">embedded industrial firmware, and structured web runtime environments.</text>
+  </g>
+
+  <!-- Right Architectural Calibration Reticle (Precision Engineering / Optics) -->
+  <g opacity="0.6">
+    <!-- Outer Calibration Ring with Ticks -->
+    <g class="reticle-ring">
+      <circle cx="720" cy="105" r="62" stroke="#21262d" stroke-width="0.8" fill="none"/>
+      <circle cx="720" cy="105" r="54" stroke="#21262d" stroke-width="0.6" stroke-dasharray="2 6" fill="none"/>
+      <!-- Ticks -->
+      <line x1="720" y1="41" x2="720" y2="47" stroke="#30363d" stroke-width="1"/>
+      <line x1="720" y1="163" x2="720" y2="169" stroke="#30363d" stroke-width="1"/>
+      <line x1="656" y1="105" x2="662" y2="105" stroke="#30363d" stroke-width="1"/>
+      <line x1="778" y1="105" x2="784" y2="105" stroke="#30363d" stroke-width="1"/>
+    </g>
+
+    <!-- Inner Axis and Measurement Target -->
+    <g class="reticle-inner">
+      <circle cx="720" cy="105" r="34" stroke="#30363d" stroke-width="0.8" fill="none"/>
+      <polygon points="720,77 724,83 716,83" fill="#8b949e"/>
+      <polygon points="720,133 724,127 716,127" fill="#8b949e"/>
+    </g>
+
+    <!-- Center Precision Crosshairs and Coordinate Readout -->
+    <circle cx="720" cy="105" r="2.5" fill="#f0f6fc"/>
+    <circle cx="720" cy="105" r="8" stroke="#484f58" stroke-width="0.6" fill="none"/>
+    <line x1="702" y1="105" x2="738" y2="105" stroke="#30363d" stroke-width="0.6"/>
+    <line x1="720" y1="87" x2="720" y2="123" stroke="#30363d" stroke-width="0.6"/>
+
+    <text class="cad-text" x="720" y="182" text-anchor="middle">SPEC: POSIX / SHELL / BASH</text>
+  </g>
+</svg>

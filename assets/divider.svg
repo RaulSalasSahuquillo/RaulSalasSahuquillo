@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 30" width="100%" height="30" fill="none">
+  <defs>
+    <linearGradient id="divLineGradL" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="40%" stop-color="#30363d" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#21262d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="divLineGradR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="40%" stop-color="#30363d" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#21262d" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      @keyframes emblemBreathe {
+        0%, 100% { transform: scale(1); opacity: 0.7; }
+        50% { transform: scale(1.1); opacity: 1; }
+      }
+      .center-emblem {
+        transform-origin: 425px 15px;
+        animation: emblemBreathe 4s ease-in-out infinite;
+      }
+      @keyframes outerPulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.8; }
+      }
+      .flank-marker {
+        animation: outerPulse 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Left Main Tapered Rule -->
+  <line x1="50" y1="15" x2="385" y2="15" stroke="url(#divLineGradL)" stroke-width="1.2"/>
+  
+  <!-- Right Main Tapered Rule -->
+  <line x1="465" y1="15" x2="800" y2="15" stroke="url(#divLineGradR)" stroke-width="1.2"/>
+
+  <!-- Left Flank Accents -->
+  <g class="flank-marker" transform="translate(180, 15)">
+    <line x1="0" y1="-4" x2="0" y2="4" stroke="#58a6ff" stroke-width="1"/>
+    <circle cx="-12" cy="0" r="1.5" fill="#30363d"/>
+    <circle cx="12" cy="0" r="1.5" fill="#30363d"/>
+  </g>
+
+  <!-- Right Flank Accents -->
+  <g class="flank-marker" transform="translate(670, 15)">
+    <line x1="0" y1="-4" x2="0" y2="4" stroke="#58a6ff" stroke-width="1"/>
+    <circle cx="-12" cy="0" r="1.5" fill="#30363d"/>
+    <circle cx="12" cy="0" r="1.5" fill="#30363d"/>
+  </g>
+
+  <!-- Central Architectural Emblem -->
+  <g class="center-emblem">
+    <!-- Outer Brackets -->
+    <path d="M 398 9 L 392 15 L 398 21" stroke="#58a6ff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M 452 9 L 458 15 L 452 21" stroke="#58a6ff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    
+    <!-- Central Geometric Diamond Motif -->
+    <polygon points="425,7 433,15 425,23 417,15" fill="#161b22" stroke="#58a6ff" stroke-width="1.2"/>
+    <circle cx="425" cy="15" r="2.2" fill="#79c0ff"/>
+
+    <!-- Flanking Accent Dots -->
+    <circle cx="408" cy="15" r="1.5" fill="#58a6ff" opacity="0.6"/>
+    <circle cx="442" cy="15" r="1.5" fill="#58a6ff" opacity="0.6"/>
+  </g>
+</svg>
