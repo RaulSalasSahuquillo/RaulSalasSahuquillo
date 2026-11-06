@@ -86,7 +86,7 @@ Software developer and systems researcher based in Spain, specializing in low-le
   <tbody>
     <tr>
       <td valign="top">
-        <h3><a href="https://github.com/RaulSalasSahuquillo/nova-engine">NovaTrade — Financial Simulation Engine</a></h3>
+        <h3><a href="https://github.com/RaulSalasSahuquillo/NovaEngine">NovaTrade — Financial Simulation Engine</a></h3>
         <p>
           <img src="./assets/tags/flutter.svg" alt="Flutter" height="22" />
           <img src="./assets/tags/dart.svg" alt="Dart" height="22" />
@@ -101,7 +101,7 @@ Software developer and systems researcher based in Spain, specializing in low-le
           <a href="https://raulsalassahuquillo.github.io/novatrade-web/">
             <img src="./assets/tags/live-demo.svg" alt="Live Web App" height="22" />
           </a>
-          <a href="https://github.com/RaulSalasSahuquillo/nova-engine">
+          <a href="https://github.com/RaulSalasSahuquillo/NovaEngine">
             <img src="./assets/tags/git.svg" alt="Repository" height="22" />
           </a>
         </p>
