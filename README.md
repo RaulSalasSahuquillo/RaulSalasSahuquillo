@@ -121,7 +121,7 @@ Software developer and systems researcher based in Spain, specializing in low-le
           End-to-end deep learning and computer vision pipeline engineered to harvest, classify, and catalog astronomical survey imagery from NASA &amp; MAST archives using a ResNet-34 convolutional backbone with SQLite metric logging. Public model weights published as <code>astroclass_ai</code>.
         </p>
         <p>
-          <a href="https://raulsalassahuquillo.github.io/nasa-deep-space-classifier-website/">
+          <a href="https://raulsalassahuquillo.github.io/astroclass-ai/">
             <img src="./assets/tags/live-demo.svg" alt="Live Web App" height="22" />
           </a>
           <a href="https://huggingface.co/RaulSalasSahuquillo/astroclass_ai">
